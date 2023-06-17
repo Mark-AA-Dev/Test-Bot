@@ -3,8 +3,8 @@ module.exports = {
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
         // SYSTEM
 
-        TOKEN: "MTEwMjUyOTAzOTU0MzA2MjU5OQ.GB2HAu.VZVBwXS6rDywY4CsQB8CUQqN8JKVUX6RR5PV5U", // TOKEN BOT
-        STATUT: ["Pour EndMC", "Par Cocci <3"], // Choix multiple: ["Choix 1", "Choix 2"] etc.. (Statut mouvant)
+        TOKEN: " ", // TOKEN BOT
+        STATUT: ["Pour le Test", "Par Cocci <3"], // Choix multiple: ["Choix 1", "Choix 2"] etc.. (Statut mouvant)
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
         // CHANNEL ID:
